@@ -43,4 +43,4 @@ Cleaned poem texts with consistent formatting. Unwanted characters removed, and 
 
 © 2025 Development Data Center. All rights reserved.
 
-The complete source code, trained models, datasets, and all implementation details are the intellectual property of the Development Data Center and are maintained in a private repository. Therefore, they are not publicly available.
+The complete datasets, and all processing details are the intellectual property of the Development Data Center and are maintained in a private repository. Therefore, they are not publicly available.
