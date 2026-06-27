@@ -28,12 +28,7 @@ HijazePoems/
 └── README.md                   # Project overview and documentation
 ```
 
-## 3. Requirements
-- Python 3.9+  
-- Install dependencies using:
-```pip install -r requirements.txt ```
-
-## 4. Data Documentation
+## 3. Data Documentation
 **Raw data:**
 
 Includes scanned books and raw text scraped from online sources. Files may contain noise such as diacritics, page numbers, or scanning errors.
