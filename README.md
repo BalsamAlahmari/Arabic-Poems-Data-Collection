@@ -38,8 +38,8 @@ Includes scanned books and raw text scraped from online sources. Files may conta
 Cleaned poem texts with consistent formatting. Unwanted characters removed, and verses are split and normalized for analysis.
 
 
-```
-## 📄 Copyright
+
+## 4. Copyright
 
 © 2025 Development Data Center. All rights reserved.
 
